@@ -1,2 +1,0 @@
-# urbanfarmhand
-Gardener in Duluth
